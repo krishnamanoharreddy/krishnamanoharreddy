@@ -7,7 +7,7 @@ I'm a software development student at Chaitanya Bharathi Institute of Technology
 - DSA
 
 ## 📫 How to reach me:
-- Email: gkmr907@example.com
+- Email: gkmr907@gmail.com
 
 
 ## 🛠 Tools I use:
