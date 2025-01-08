@@ -1,4 +1,4 @@
-# Hi there, I'm Krishna Manohar 👋
+# Hi there, I'm Gudibanda Krishna Manohar Reddy  👋
 
 I'm a software development student at Chaitanya Bharathi Institute of Technology. Passionate about web development, coding, and technology. I'm always looking to improve my skills and contribute to exciting projects!
 
